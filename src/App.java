@@ -1,0 +1,11 @@
+public class App {
+    
+    public static void main(String[] args) throws Exception {
+        Calculadora calculadora = new Calculadora();
+
+        calculadora.startCalculator();
+        calculadora.exibirMenu();
+
+    }
+    
+}
